@@ -4,6 +4,8 @@
 
 <template>
 
-<h1>start</h1>
+<main>
+    <RouterView/>
+</main>
 </template>
 
